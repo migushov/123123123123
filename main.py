@@ -32,7 +32,7 @@ layout_main = QVBoxLayout()
 layout_main.addLayout(layoutH1)
 layout_main.addLayout(layoutH2)
 layout_main.addLayout(layoutH3)
-main_win.setLayout(layout_main)
+main_win.setLayout(layout_main)tfgsdfghsdfgsdfgs
 
 def show_win():
     victory_win = QMessageBox()
